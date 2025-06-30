@@ -17,7 +17,7 @@ This project demonstrates a simple conversational AI chatbot built using the **F
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/<your-username>/chatbot.git
 cd chatbot
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
