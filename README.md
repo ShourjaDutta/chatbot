@@ -68,10 +68,6 @@ chatbot/
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project overview (this file)
 ├── .gitignore                  # Files ignored by git
-├── scripts/
-│   └── chatbot.py              # (Optional) Python script version
-└── assets/
-    └── demo.gif                # (Optional) GIF/image for demo
 
 ## ⚠️ Requirements & Recommendations
 
